@@ -1,0 +1,4 @@
+{
+	"doc"		:	 "posts",	//default is posts
+	"tpl"		:	 "tpl"		//default is tpl
+}
