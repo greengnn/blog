@@ -1,4 +1,11 @@
 {
-	"doc"		:	 "posts",	//default is posts
-	"tpl"		:	 "tpl"		//default is tpl
+	"docs"		:	 ["posts"],	
+	"tpl"		:	 "tpl",	
+	"perpage"   :    10,
+	"types"		:	{
+		"\\.(md||markdown)$"	:	"markdown", 
+		"\\.(js||css)$"			:	"code",
+		"\\.html?$"				:	"html",
+		"default"				:	"text"		
+	}
 }
