@@ -4,7 +4,7 @@
 	"perpage"   :    10,
 	"types"		:	{
 		"\\.(md||markdown)$"	:	"markdown", 
-		"\\.(js||css)$"			:	"code",
+		"\\.(js||css||json)$"	:	"code",
 		"\\.html?$"				:	"html",
 		".*"					:	"text"		
 	}
