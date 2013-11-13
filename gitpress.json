@@ -6,6 +6,6 @@
 		"\\.(md||markdown)$"	:	"markdown", 
 		"\\.(js||css)$"			:	"code",
 		"\\.html?$"				:	"html",
-		"default"				:	"text"		
+		".*"					:	"text"		
 	}
 }
