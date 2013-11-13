@@ -1,5 +1,5 @@
 {
-	"docs"		:	 ["posts"],	
+	"docs"		:	 ["posts", "gitpress.json"],	
 	"tpl"		:	 "tpl",	
 	"perpage"   :    10,
 	"types"		:	{
