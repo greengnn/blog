@@ -1,11 +1,11 @@
 {
-	"docs"		:	 ["posts", "gitpress.json"],	
-	"tpl"		:	 "tpl",	
-	"perpage"   :    10,
-	"types"		:	{
-		"\\.(md||markdown)$"	:	"markdown", 
-		"\\.(js||css||json)$"	:	"code",
-		"\\.html?$"				:	"html",
-		".*"					:	"text"		
+	"docs"      : ["posts", "gitpress.json"],	
+	"tpl"       : "tpl",	
+	"perpage"   : 10,
+	"types"     : {
+		"\\.(md||markdown)$"   : "markdown", 
+		"\\.(js||css||json)$"  : "code",
+		"\\.html?$"            : "html",
+		".*"                   : "text"		
 	}
 }
