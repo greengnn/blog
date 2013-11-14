@@ -1,6 +1,6 @@
 {
 	"docs"      : ["posts", "gitpress.json"],	
-	"tpl"       : "tpl",	
+	"tpl"       : ["{{", "}}", "tpl/template.tpl"],	
 	"perpage"   : 10,
 	"types"     : {
 		"\\.(md||markdown)$"   : "markdown", 
