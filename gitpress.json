@@ -7,6 +7,6 @@
 		"\\.html?$"            : "html",
 		".*"                   : "text"		
 	},
-	"title"	   : "Akira's Blog",
+	"title"  : "Akira's Blog",
 	"comment"  : "on"
 }
