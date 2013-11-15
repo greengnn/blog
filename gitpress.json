@@ -9,7 +9,7 @@
 	},
 	"title"  : "Akira's Blog",
 	"comment"  : "on",
-	"domain-alias"  : ["~blog.weizoo.com"],
+	"domain-alias"  : ["blog.weizoo.com"],
 	"friends"  : [
 		{
 		  "name"  : "JerryQu的小站",
