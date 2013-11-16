@@ -12,14 +12,29 @@
 	"domain-alias"  : ["blog.weizoo.com"],
 	"friends"  : [
 		{
-		  "name"  : "JerryQu的小站",
-		  "title"  : "屈屈的博客",
-		  "url"  : "http://imququ.com"		  
+			"name"  : "JerryQu的小站",
+			"title"  : "屈屈的博客",
+			"url"  : "http://imququ.com"		  
 		},
 		{
-		  "name"  : "奇舞团",
-		  "title"  : "奇舞团官方博客",
-		  "url"  : "http://www.75team.com"
+			"name"  : "奇舞团",
+			"title"  : "奇舞团官方博客",
+			"url"  : "http://www.75team.com"
+		},
+		{
+			"name"  : "typeof.net",
+			"title" : "typeof.net",
+			"url"  :  "http://typeof.net/"
+		},
+		{
+			"name"  : "never-online",
+			"title" : "rank's technical notes",
+			"url"	: "never-online"
+		},
+		{
+			"name"  : "aoao",
+			"title" : "样式之美 | 没落的角落",
+			"url"   : "http://www.aoao.org.cn/"
 		}
 	] 
 }
