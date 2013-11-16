@@ -13,6 +13,7 @@ $myObj->test();
 我们要python端做哪些事情
 
 <!--more-->
+
 首先，我们要让python找到对应的模块加载（按kohana规则，这个模块叫 classes/foo/bar.py）
 
 其次，我们用php new了一个python对象，对象名为Foo_Bar，接着，调用了test方法

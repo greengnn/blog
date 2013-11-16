@@ -9,6 +9,7 @@ qwrap的核心机制，是以Helper->Wrap->Retouch->Apps为主线的，其中最
 函数变换可以是很灵活的，能做很多事情。理论上讲，任何参数中包含function，而返回值为function的函数，就是一个某种变换的算子。
 
 <!--more-->
+
 例如：
 
 ```js

@@ -9,6 +9,7 @@ php用于web开发还是很方便的，这门语言专注于web开发，作为�
 因此，我自然开始考虑是否能将kohana和python结合起来。
 
 <!--more-->
+
 我的设想是：在kohana中能直接new python写的class，就像php的原生方法那样简单
 
 例如：
