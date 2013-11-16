@@ -11,7 +11,9 @@ cocos2d-x 编译 android 应用，生成的 activity 继承自 Cocos2dxActivity,
 修改方法：
 
 1）在Cocos2dxGLSurfaceView的onPause中， 注释掉super.onPause() 添加this.setVisibility(View.GONE);
+
 2) 在Cocos2dxGLSurfaceView的onResume中， 注释掉super.onResume() 添加this.setVisibility(View.VISIBLE);
+
 3) 在CCPlatform.h 中 ：
 
 ```cpp
