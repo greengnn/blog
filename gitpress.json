@@ -1,6 +1,6 @@
 {
 	"docs"      : ["posts"],	
-	"perpage"   : 10,
+	"perpage"   : 5,
 	"types"     : {
 		"\\.(md||markdown)$"   : "markdown", 
 		"\\.(js||css||json)$"  : "code",
