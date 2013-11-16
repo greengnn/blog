@@ -4,6 +4,7 @@
 
 我们在php的auto_load的时候也让python加载对应的模块
 
+<!--more-->
 ```php
 <?php defined('SYSPATH') or die('No direct script access.');
  
