@@ -9,7 +9,7 @@
 	},
 	"title"  : "Akira's Blog",
 	"comment"  : "on",
-	"domain-alias"  : ["blog.weizoo.com", "www.silvarna.org", "blog.silverna.org"],
+	"domain-alias"  : ["blog.weizoo.com", "silverna.org", "www.silverna.org", "blog.silverna.org"],
 	"friends"  : [
 		{
 			"name"  : "JerryQu的小站",
