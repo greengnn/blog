@@ -1,21 +1,21 @@
 {
-	"docs"      : ["posts"],	
+	"docs"      : ["posts"],
 	"perpage"   : 5,
 	"template"  : "slate",
 	"types"     : {
-		"\\.(md||markdown)$"   : "markdown", 
+		"\\.(md||markdown)$"   : "markdown",
 		"\\.(js||css||json)$"  : "code",
 		"\\.html?$"            : "html",
-		".*"                   : "text"		
+		".*"                   : "text"
 	},
 	"title"  : "Akira's Blog",
 	"comment"  : "on",
-	"domain-alias"  : ["blog.weizoo.com", "silverna.org", "www.silverna.org", "blog.silverna.org"],
+	// "domain-alias"  : [".org"],
 	"friends"  : [
 		{
 			"name"  : "JerryQu的小站",
 			"title"  : "屈屈的博客",
-			"url"  : "http://imququ.com"		  
+			"url"  : "http://imququ.com"
 		},
 		{
 			"name"  : "奇舞团",
@@ -42,5 +42,5 @@
 			"title" : "样式之美 | 没落的角落",
 			"url"   : "http://www.aoao.org.cn/"
 		}
-	] 
+	]
 }
